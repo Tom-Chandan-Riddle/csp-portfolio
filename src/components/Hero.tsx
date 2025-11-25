@@ -29,11 +29,11 @@ export default function Hero() {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, ease: "easeOut" }}
-          className="text-6xl md:text-8xl lg:text-9xl font-bold tracking-tighter text-transparent bg-clip-text bg-gradient-to-b from-white/90 via-white/60 to-white/30 backdrop-blur-sm"
+          className="text-4xl md:text-6xl lg:text-8xl font-bold tracking-tighter text-transparent bg-clip-text bg-gradient-to-b from-white/90 via-white/60 to-white/30 backdrop-blur-sm uppercase"
         >
-          CAPTURING
+          CHANDAN
           <br />
-          THE MOMENT
+          SUSHMA SHANKAR
         </motion.h1>
 
         <motion.p

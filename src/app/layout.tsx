@@ -13,11 +13,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Portfolio | Travel Photographer & Filmmaker",
-  description: "Capturing the unseen world. Professional travel photography and filmmaking portfolio showcasing landscapes, nature, and urban stories.",
+  title: "Chandan Sushma Shankar | Visual Storyteller",
+  description: "Portfolio of Chandan Sushma Shankar - Visual Storyteller & Filmmaker capturing the unseen world.",
   openGraph: {
-    title: "Portfolio | Travel Photographer & Filmmaker",
-    description: "Capturing the unseen world. Professional travel photography and filmmaking portfolio.",
+    title: "Chandan Sushma Shankar | Visual Storyteller",
+    description: "Portfolio of Chandan Sushma Shankar - Visual Storyteller & Filmmaker.",
     type: "website",
   },
 };

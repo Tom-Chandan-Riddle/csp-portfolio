@@ -17,7 +17,7 @@ export default function About() {
                 >
                     <div className="aspect-[3/4] rounded-2xl overflow-hidden">
                         <img
-                            src="https://images.unsplash.com/photo-1554048612-387768052bf7?q=80&w=2535&auto=format&fit=crop"
+                            src="/hero-2.png"
                             alt="Photographer Portrait"
                             className="w-full h-full object-cover"
                         />
